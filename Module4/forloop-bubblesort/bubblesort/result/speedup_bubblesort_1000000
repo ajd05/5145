@@ -1,0 +1,6 @@
+1 ./bubblesort_seq: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort_seq) ./bubblesort: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort)
+2 ./bubblesort_seq: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort_seq) ./bubblesort: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort)
+4 ./bubblesort_seq: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort_seq) ./bubblesort: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort)
+8 ./bubblesort_seq: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort_seq) ./bubblesort: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort)
+12 ./bubblesort_seq: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort_seq) ./bubblesort: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort)
+16 ./bubblesort_seq: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort_seq) ./bubblesort: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./bubblesort)
